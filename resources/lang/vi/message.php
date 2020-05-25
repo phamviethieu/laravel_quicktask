@@ -16,5 +16,9 @@ return [
     'task' => 'Tác vụ',
     'taskof' => 'Tác vụ của',
     'selectlang' => 'Chọn ngôn ngữ',
+    'nameRequired' => 'Tên tác vụ không được để trống',
+    'added' => 'Thêm thành công!',
+    'updated' => 'Sửa thành công',
+    'deleted' => 'Xóa thành công',
+    'title' => 'Quản lý tác vụ',
 ];
-?>

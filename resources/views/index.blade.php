@@ -57,7 +57,7 @@
 
                     <!-- Table Headings -->
                     <thead>
-                        <th>{{ trans('message.task')}}</th>
+                        <th>{{ trans('message.task') }}</th>
                         <th>&nbsp;</th>
                     </thead>
 

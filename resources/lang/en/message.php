@@ -16,5 +16,9 @@ return [
     'task' => 'Task',
     'taskof' => 'Task of',
     'selectlang' => 'Select language',
+    'nameRequired' => 'The name of task must be typed',
+    'added' => 'Add Successful!',
+    'updated' => 'Updated Successful',
+    'deleted' => 'Deleted',
+    'title' => 'Laravel quicktask',
 ];
-?>
